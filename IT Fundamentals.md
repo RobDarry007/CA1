@@ -9,4 +9,4 @@ Details:
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg "Kismet by Rama")
 
-View the source [here]( https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg "Kismet-IMG 6007-black.jpg").
+View the source [here]( https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg "Kismet-IMG 6007-black.jpg")..
